@@ -4,7 +4,7 @@ My Github profile
 Student in the [Dept. of Computer Science and
 Engineering](https://computer.seoultech.ac.kr/), [SEOULTECH](https://en.seoultech.ac.kr/).
 
-    Here are some of my comfort songs I like to listen :notes:
+Here are some of my comfort songs I like to listen :musical_note:
 * [Angel](https://www.youtube.com/watch?v=eYiOCVcy1cE) by Alice Phoebe Lou
 * [Last Night On Eart](https://www.youtube.com/watch?v=xg_Y7Or_hWM) by Green Day
 * [Quite Like You Do](https://www.youtube.com/watch?v=-VZlfFIdD04) by juno roome
