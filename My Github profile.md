@@ -1,4 +1,3 @@
-My Github profile
 ## :wave: **Hi I'm Tergel!**
 
 Student in the [Dept. of Computer Science and
